@@ -18,3 +18,15 @@
 * JavaScript (Basics)
 * Git, GitHub
 * VS Code
+
+## Проекты
+* **CV Markdown & Git**
+    * Ссылка на репозиторий: [rsschool-cv](https://github.com/Sergsol95/rsschool-cv.git)
+    * Описание: Мой первый проект в рамках курса RS School, где я создал CV с использованием Markdown и развернул его на GitHub Pages.
+    * Технологии: Git, Markdown.
+
+---
+
+## Образование
+* **The Rolling Scopes School** - Frontend Development 
+* **Название вашего ВУЗа/колледжа** - РАНХИГС - экономика
