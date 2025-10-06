@@ -30,3 +30,7 @@
 ## Образование
 * **The Rolling Scopes School** - Frontend Development 
 * **Название вашего ВУЗа/колледжа** - РАНХИГС - экономика
+
+# RS School CV Project
+
+My CV deployed on GitHub Pages: [(https://github.com/Sergsol95/rsschool-cv](https://Sergsol95.github.io/rsschool-cv/cv)
