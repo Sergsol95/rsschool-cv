@@ -28,7 +28,7 @@
 ---
 
 ## Образование
-* **The Rolling Scopes School** - Frontend Development 
+* **The Rolling Scopes School** - Frontend Development
 * **Название вашего ВУЗа/колледжа** - РАНХИГС - экономика
 
 # RS School CV Project
